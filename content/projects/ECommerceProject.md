@@ -1,7 +1,7 @@
 ---
 date: '2022-06-15'
 title: 'Creating a ECommerce Website'
-github: 'git@github.com:gorkemyar/ECommercePlatform.git'
+github: 'https://github.com/gorkemyar/ECommercePlatform'
 external: ''
 ios: ''
 android: ''

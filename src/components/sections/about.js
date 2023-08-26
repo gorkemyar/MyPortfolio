@@ -152,7 +152,7 @@ const About = () => {
             </p>
 
             <p>
-              I am recently working on a iOS app with Swift and UIkit with Foreks Digital in order
+              I am recently working on an iOS app with Swift and UIkit with Foreks Digital in order
               to build a stock market app.
             </p>
 
