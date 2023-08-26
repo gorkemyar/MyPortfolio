@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gorkemyar.com/sitemap.xml
+Host: https://gorkemyar.com
